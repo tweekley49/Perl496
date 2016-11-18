@@ -1,0 +1,9 @@
+******************* Bubble Sort PART *********************
+g++ -o sll-test -g -I src/ src/array.cpp src/main.cpp
++ 50.000 pts of 50.000
+Total grade so far: 50.000
+******************* Binary Search PART *********************
+g++ -o sll-test -g -I src/ src/array.cpp src/main.cpp
++ 50.000 pts of 50.000
+Total grade so far: 100.000
+*****************Finished lab07****************
